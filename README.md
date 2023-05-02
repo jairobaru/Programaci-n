@@ -2,23 +2,24 @@
 
 ---
 # Programación
-![Programacion](/IMG/IMG_Programacion_1.png)
+![Programacion](IMG_Programacion_1.png)
 
 ## Tabla de contenido
-1. [_Recursos para la programaciÓn de Varios lenguajes_](#recursos-para-la-programaciÓn-de-varios-lenguajes)
+1. [_Recursos para la programación de Varios lenguajes_](#recursos-para-la-programación-de-varios-lenguajes)
 2. [Comenzando](#comenzando-🚀)
 3. [Pre-requisitos](#pre-requisitos-📋)
 4. [Instalación](#instalación-🔧)
 5. [Construido con](#construido-con-🛠️)
 6. [Wiki](#wiki-📖)
 7. [Versionado](#versionado-📌)
-8. [Autores](#autores-✒️)
-9. [Licencia](#licencia-📄)
-10. [Expresiones de Gratitud](#expresiones-de-gratitud-🎁)
+8. [Comentarios](#comentarios-💬)
+9. [Autor](#autor-✒️)
+10. [Licencia](#licencia-📄)
+11. [Expresiones de Gratitud](#expresiones-de-gratitud-🎁)
 
 ---
 
-# _Recursos para la programaciÓn de Varios lenguajes_ 
+# _Recursos para la programación de Varios lenguajes_ 
 
 _CONTENIDO:_
 
@@ -99,6 +100,11 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jairobaru/Programacion/tags).
 
+## Comentarios 💬
+
+Usamos Formato Doxigen [Doxigen ](https://www.doxygen.nl/)  ver 3.
+
+
 ## Autor ✒️
 
 > * **Jairo Barulich** - *Developer* - [jbarulich@frba.utn.edu.ar](https://github.com/jbarulich)
@@ -116,4 +122,4 @@ Este proyecto está bajo la Licencia: MIT License - para detalles [MIT License](
 * Da las gracias públicamente 🤓.
 
 ---
-MENSAJE |  - 2023 -  [Jairo Joel Barulich](https://github.com/jairobaru/Programacion)
+A CODEAR NO MAS |  - 2023 -  [Jairo Joel Barulich](https://github.com/jairobaru/Programacion)
