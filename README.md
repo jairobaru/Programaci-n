@@ -2,7 +2,7 @@
 
 ---
 # Programación
-![Programacion](IMG_Programacion_1.png)
+![Programacion](IMG/IMG_Programacion_1.png)
 
 ## Tabla de contenido
 1. [_Recursos para la programación de Varios lenguajes_](#recursos-para-la-programación-de-varios-lenguajes)
